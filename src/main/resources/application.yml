@@ -1,0 +1,12 @@
+server:
+  port: 8880
+spring:
+  application:
+    name: opc-test
+opc:
+  host: 192.168.89.123
+  domain:
+  userName: Administrator
+  password: Yanfa_1304
+  clsId: 41EBD53D-36C4-4027-B2B4-09A6E4A362DD
+  progId: SUPCON.SCRTCore
