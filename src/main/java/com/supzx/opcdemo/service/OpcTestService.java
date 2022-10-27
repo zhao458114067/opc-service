@@ -24,4 +24,9 @@ public interface OpcTestService {
      * @return
      */
     List<String> writeTag(Map<String, Object> tags);
+
+    /**
+     * 建立连接
+     */
+    public void connectOpc();
 }
